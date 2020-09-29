@@ -247,6 +247,7 @@ Name | Website | Region
 [Intellum](/company-profiles/intellum.md) | http://www.intellum.com | US
 [Interactive Intelligence](/company-profiles/interactive-intelligence.md) | https://www.inin.com/ | Worldwide
 [Intercom](/company-profiles/intercom.md) | https://www.intercom.io/ | Worldwide
+[IPinfo](/company-profiles/ipinfo.md) | https://ipinfo.io/ | Worldwide
 [Interpersonal Frequency (I.F.)](/company-profiles/interpersonal-frequency-i-f.md) ⚠️️ | https://ifsight.com/ |
 [Interview Schedule](/company-profiles/interview-schedule.md) | https://interviewschedule.com/ | USA
 [InVision](/company-profiles/invision.md) | http://www.invisionapp.com/ | Worldwide
